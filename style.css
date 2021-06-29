@@ -1,0 +1,32 @@
+.center {
+    margin-top: 200px;
+    margin-left: 80px;
+    padding: 100px;
+    border-radius: 25px;
+  }
+  
+  input {
+    width: 265px;
+    height: 50px;
+    font-size: 25px;
+    border-style: hidden;
+  }
+  button {
+    width: 65px;
+    height: 70px;
+    background-color: rgb(17, 15, 15);
+    color: white;
+    box-shadow: 5px 8px 16px 6px rgba(0, 0, 0, 0.2);
+    font-family: math;
+    font-size: 25px;
+  }
+  .zero {
+    width: 135px;
+  }
+  body {
+      background-image: url(./background.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      
+  }
